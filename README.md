@@ -1,4 +1,4 @@
-# PARSE-BOILERPLATE
+# PARSE-iOS BOILERPLATE [OBJECTIVE-C]
 This is a simple, and hopefully growing, boilerplate for the Parse Objective-C.
 
 ## SIMPLE SETUP
