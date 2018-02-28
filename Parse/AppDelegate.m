@@ -19,8 +19,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     [Parse initializeWithConfiguration:[ParseClientConfiguration configurationWithBlock:^(id<ParseMutableClientConfiguration> configuration) {
-        configuration.applicationId = @"mjQ7NjfJARtCnozBnfsth1zAfDxaPGB1Tk3zkPvc";
-        configuration.clientKey = @"oixbQfKQ3EHaPIzN6q6LiiEOgoj9v0qbEtn4PpmZ";
+        configuration.applicationId = @"APP-ID";
+        configuration.clientKey = @"CLIENT-KEY";
         configuration.server = @"https://parseapi.back4app.com";
     }]];
     
